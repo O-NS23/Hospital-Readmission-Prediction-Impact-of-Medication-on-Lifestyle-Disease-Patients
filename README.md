@@ -1,0 +1,2 @@
+# Hospital-Readmission-Prediction-Impact-of-Medication-on-Lifestyle-Disease-Patients
+Predict hospital readmission risk using real-world healthcare data. This project performs EDA, feature engineering and ML modeling to identify key factors like medications, visits and diagnoses influencing readmission, evaluated using F1-score for accurate and actionable insights. Supports better clinical planning and patient outcomes.
